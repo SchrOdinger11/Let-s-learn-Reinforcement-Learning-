@@ -1,2 +1,3 @@
-# Let-s-learn-Reinforcement-Learning-
-CS687 UMass Reinforcement Learnig 
+# REINFORCEMENT LEARNING
+Above are the algorithms RL algorithms discussed 
+
