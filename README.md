@@ -1,3 +1,3 @@
 # REINFORCEMENT LEARNING
-Above are the algorithms RL algorithms discussed 
+Above are the RL algorithms discussed 
 
